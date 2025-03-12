@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/0740-delete-and-earn) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/0740-delete-and-earn) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/1753-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
