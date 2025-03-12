@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/1171-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
