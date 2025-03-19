@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/0151-reverse-words-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/0803-cheapest-flights-within-k-stops) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
