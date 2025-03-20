@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/1753-path-with-minimum-effort) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -73,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
 | ------- |
