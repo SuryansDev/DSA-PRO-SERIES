@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Search
 |  |
@@ -100,4 +101,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
+## Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
+## Greedy
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
+## Sorting
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
