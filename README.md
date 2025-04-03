@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SuryansDev/DSA-PRO-SERIES/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Search
